@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-06-07T01:28:10.532Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.282" etag="LpuadS0bORP6Rd0THloR" version="14.7.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-07T01:29:27.161Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.282" etag="IpI7OktR4ArK1FSGbmc4" version="14.7.6" type="github" pages="2">
   <diagram id="WklP1ezmNH_kU7zZpK8Q" name="Contexto">
     <mxGraphModel dx="1381" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Mma5UvzlVPMSAuRfQYA2-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Mma5UvzlVPMSAuRfQYA2-23" target="Mma5UvzlVPMSAuRfQYA2-28" edge="1">
+        <mxCell id="Mma5UvzlVPMSAuRfQYA2-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" source="Mma5UvzlVPMSAuRfQYA2-23" target="Mma5UvzlVPMSAuRfQYA2-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Mma5UvzlVPMSAuRfQYA2-22" value="Gestionar la categorización&lt;br&gt;&amp;nbsp;y productos&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Mma5UvzlVPMSAuRfQYA2-21" vertex="1" connectable="0">
@@ -29,13 +29,13 @@
         <mxCell id="Mma5UvzlVPMSAuRfQYA2-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" source="Mma5UvzlVPMSAuRfQYA2-28" target="Mma5UvzlVPMSAuRfQYA2-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mma5UvzlVPMSAuRfQYA2-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Mma5UvzlVPMSAuRfQYA2-28" target="Mma5UvzlVPMSAuRfQYA2-34" edge="1">
+        <mxCell id="Mma5UvzlVPMSAuRfQYA2-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" source="Mma5UvzlVPMSAuRfQYA2-28" target="Mma5UvzlVPMSAuRfQYA2-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Mma5UvzlVPMSAuRfQYA2-28" value="&lt;b&gt;ALICAN&lt;/b&gt;&lt;div&gt;[Software System]&lt;/div&gt;&lt;br&gt;&lt;div&gt;Realiza búsquedas de productos en diferentes paginas web a través de web scraping&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#004C99;fontColor=#000000;align=center;arcSize=10;strokeColor=#6c8ebf;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="340" y="360" width="160" height="110.00000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="Mma5UvzlVPMSAuRfQYA2-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Mma5UvzlVPMSAuRfQYA2-31" target="Mma5UvzlVPMSAuRfQYA2-28" edge="1">
+        <mxCell id="Mma5UvzlVPMSAuRfQYA2-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" source="Mma5UvzlVPMSAuRfQYA2-31" target="Mma5UvzlVPMSAuRfQYA2-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Mma5UvzlVPMSAuRfQYA2-30" value="Encontrar productos en diferentes &lt;br&gt;paginas web" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Mma5UvzlVPMSAuRfQYA2-29" vertex="1" connectable="0">
